@@ -1,0 +1,10 @@
+/home/a/Escritorio/practica/backend/src/main/java/practica/backend/BackendApplication.java
+/home/a/Escritorio/practica/backend/src/main/java/practica/backend/Dto/EmpleadoDto.java
+/home/a/Escritorio/practica/backend/src/main/java/practica/backend/Dto/RequestDto.java
+/home/a/Escritorio/practica/backend/src/main/java/practica/backend/Dto/RespuestaDto.java
+/home/a/Escritorio/practica/backend/src/main/java/practica/backend/controller/EmpleadoController.java
+/home/a/Escritorio/practica/backend/src/main/java/practica/backend/controller/InicioController.java
+/home/a/Escritorio/practica/backend/src/main/java/practica/backend/jpa/entity/EmpleadoEntity.java
+/home/a/Escritorio/practica/backend/src/main/java/practica/backend/jpa/repository/EmpleadoRepository.java
+/home/a/Escritorio/practica/backend/src/main/java/practica/backend/service/IEmpleadoService.java
+/home/a/Escritorio/practica/backend/src/main/java/practica/backend/service/implentation/EmpleadoService.java
